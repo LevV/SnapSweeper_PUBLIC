@@ -1,4 +1,4 @@
-# PhotoMoto__PUBLIC
+# SnapSweeper__PUBLIC
 Do you dump all your photos into a single folder on your drive?
 
 Or are you a meticulous person who — like me — likes to keep your photo library neatly organized by date, camera, lens, or even (if desired) focal length?
